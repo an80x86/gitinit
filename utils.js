@@ -1,0 +1,1 @@
+// TODO: Çeşitli fnkslar gelecek..
